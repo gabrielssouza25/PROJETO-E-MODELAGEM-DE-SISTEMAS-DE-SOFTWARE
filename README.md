@@ -13,4 +13,6 @@
 
 ## Descrição do Projeto
 
+Este é o objetivo do "The Factory Depot Brasil", tera como o principal a linguagem de programação o PHP para a criação do site e uso do formato de Sistema Cloud Computing para o acesso do respectivo sistema.
+
 ## Endereço da Aplicação
